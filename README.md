@@ -1,4 +1,4 @@
-Hi there! :wave:
+**Hi there!** :wave:
 
 <img src="https://github.com/gcarlin/gcarlin/blob/master/product_mockups-2.png?raw=true"/>
 
