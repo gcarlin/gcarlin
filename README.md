@@ -1,6 +1,6 @@
 Hi there! :wave:
 
-![product_mockups-1.png](product_mockups-1.png)
+![product_mockups-1.png](gcarlin/product_mockups-1.png)
 
 I'm an Enterprise Content Management specialist, and Nuxeo Platform passionate. I'm working at [Nuxeo](www.nuxeo.com) in the Product team. I'm a all-round worker, with the will to share my knowledge, best practices and tips and tricks to speed up any Nuxeo application implementations. I'm not a developer expert, and my contributions can be probably easily improved, but let's say I can do few cool things with JS, CSS, HTML and Web Components :wink:
 
