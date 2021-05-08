@@ -30,6 +30,9 @@ if check_get_value:
     root = os.path.dirname(os.path.realpath(__file__))
     # Open CSV File
     file_result = open(root+"/"+csv_filename,"w+")
+    # File header
+    line = ("FIELD NAME"+csv_separator+"FIELD VALUE"+"\n")
+    file_result.write(line)
     total_number_of_field = 0
     number_extracted_field = 0
     j=0
@@ -48,7 +51,7 @@ if check_get_value:
         j += 1
     file_result.close()
     print("Total of field: %s" % total_number_of_field)
-    print("Total of extracted field:%s" % number_extracted_field)
+    print("Total of extracted field: %s" % number_extracted_field)
     performance = (number_extracted_field/total_number_of_field)*100
     print("Performance: %s %%" % performance)    
 else:
