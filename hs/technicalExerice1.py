@@ -1,8 +1,9 @@
 import requests, json, os
 
 # Config
-submission_number = 1
+submission_number = 4
 csv_filename = "result.csv"
+csv_separator = ","
 
 # Auth 
 base_url = "https://sales1.demo.hyperscience.com/api/v5/"
@@ -25,7 +26,9 @@ if check_get_value:
     print("Checking extracted field")
     documents = read_submission["documents"]
     print("Number of documents: %s" % len(documents))
+    # Get current folder path
     root = os.path.dirname(os.path.realpath(__file__))
+    # Open CSV File
     file_result = open(root+"/"+csv_filename,"w+")
     total_number_of_field = 0
     number_extracted_field = 0
@@ -39,14 +42,14 @@ if check_get_value:
             field_value = read_submission["documents"][j]["document_fields"][k]["transcription"]["normalized"]
             if len(field_value) > 0:
                 number_extracted_field += 1
-            line = (field_name+","+field_value+"\n")
+            line = (field_name+csv_separator+field_value+"\n")
             file_result.write(line)
             k += 1
         j += 1
-    file_result.close()    
+    file_result.close()
+    print("Total of field: %s" % total_number_of_field)
+    print("Total of extracted field:%s" % number_extracted_field)
+    performance = (number_extracted_field/total_number_of_field)*100
+    print("Performance: %s %%" % performance)    
 else:
     print("Nothing to do, no results")
-print("Total of field: %s" % total_number_of_field)
-print("Total of extracted field:%s" % number_extracted_field)
-performance = (number_extracted_field/total_number_of_field)*100
-print("Performance: %s %%" % performance)
