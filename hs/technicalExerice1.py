@@ -2,7 +2,6 @@ import requests, json, os
 
 # Config
 submission_number = 4
-csv_filename = "result.csv"
 csv_separator = ","
 
 # Auth 
@@ -29,7 +28,7 @@ if check_get_value:
     # Get current folder path
     root = os.path.dirname(os.path.realpath(__file__))
     # Open CSV File
-    file_result = open(root+"/"+csv_filename,"w+")
+    file_result = open(root+"/results-submission-"+str(submission_number)+".csv","w+")
     # File header
     line = ("FIELD NAME"+csv_separator+"FIELD VALUE"+"\n")
     file_result.write(line)
