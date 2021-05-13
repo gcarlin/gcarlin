@@ -30,7 +30,7 @@ if check_get_value:
     # Open CSV File
     file_result = open(root+"/results-submission-"+str(submission_number)+".csv","w+")
     # File header
-    line = ("FIELD NAME"+csv_separator+"FIELD VALUE"+"\n")
+    line = ("DOCUMENT_ID"+csv_separator+"FIELD NAME"+csv_separator+"FIELD VALUE"+"\n")
     file_result.write(line)
     total_number_of_field = 0
     number_extracted_field = 0
@@ -44,7 +44,7 @@ if check_get_value:
             field_value = read_submission["documents"][j]["document_fields"][k]["transcription"]["normalized"]
             if len(field_value) > 0:
                 number_extracted_field += 1
-            line = (field_name+csv_separator+field_value+"\n")
+            line = (str(read_submission["documents"][j]["id"])+csv_separator+field_name+csv_separator+field_value+"\n")
             file_result.write(line)
             k += 1
         j += 1

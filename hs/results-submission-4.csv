@@ -1,45 +1,45 @@
-FIELD NAME,FIELD VALUE
-Company Name,ANNIES AVOCADOS
-Employer Address,25 TOWNE ST
-Employer State,NEW YORK
-Employer Zip,10013
-Employer City,NEW YORK
-Checking,TRUE
-Savings,FALSE
-Account Number,5555451010
-Routing Number,1129543
-Percent,100
-Flat Amount,
-Company Name,BLOOMBERG
-Employer Address,731 LEXINGTON AVE
-Employer State,NEW YORK
-Employer Zip,10020
-Employer City,NEW YORK
-Checking,FALSE
-Savings,TRUE
-Account Number,003257890
-Routing Number,3257890
-Percent,
-Flat Amount,25.00
-Company Name,JOHNSON & SONS LLC
-Employer Address,1 WTC F45A
-Employer State,NEW YORK
-Employer Zip,10003
-Employer City,NEW YORK
-Checking,TRUE
-Savings,FALSE
-Account Number,123456789
-Routing Number,987654321
-Percent,
-Flat Amount,1000000.00
-Company Name,KWS FACTORY
-Employer Address,OWTC
-Employer State,
-Employer Zip,11201
-Employer City,NYC
-Checking,TRUE
-Savings,FALSE
-Account Number,47654587W5431
-Routing Number,1298741
-Percent,1000000
-Flat Amount,
+DOCUMENT_ID,FIELD NAME,FIELD VALUE
+10,Company Name,ANNIES AVOCADOS
+10,Employer Address,25 TOWNE ST
+10,Employer State,NEW YORK
+10,Employer Zip,10013
+10,Employer City,NEW YORK
+10,Checking,TRUE
+10,Savings,FALSE
+10,Account Number,5555451010
+10,Routing Number,1129543
+10,Percent,100
+10,Flat Amount,
+11,Company Name,BLOOMBERG
+11,Employer Address,731 LEXINGTON AVE
+11,Employer State,NEW YORK
+11,Employer Zip,10020
+11,Employer City,NEW YORK
+11,Checking,FALSE
+11,Savings,TRUE
+11,Account Number,003257890
+11,Routing Number,3257890
+11,Percent,
+11,Flat Amount,25.00
+12,Company Name,JOHNSON & SONS LLC
+12,Employer Address,1 WTC F45A
+12,Employer State,NEW YORK
+12,Employer Zip,10003
+12,Employer City,NEW YORK
+12,Checking,TRUE
+12,Savings,FALSE
+12,Account Number,123456789
+12,Routing Number,987654321
+12,Percent,
+12,Flat Amount,1000000.00
+13,Company Name,KWS FACTORY
+13,Employer Address,OWTC
+13,Employer State,
+13,Employer Zip,11201
+13,Employer City,NYC
+13,Checking,TRUE
+13,Savings,FALSE
+13,Account Number,47654587W5431
+13,Routing Number,1298741
+13,Percent,1000000
+13,Flat Amount,
