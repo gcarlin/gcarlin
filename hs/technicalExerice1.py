@@ -1,7 +1,7 @@
 import requests, json, os
 
 # Config
-submission_number = 4
+submission_number = 1
 csv_separator = ","
 
 # Auth 
@@ -39,12 +39,13 @@ if check_get_value:
         document_fields = read_submission["documents"][j]["document_fields"]
         k=0
         total_number_of_field = total_number_of_field + len(document_fields)
+        document_id = str(read_submission["documents"][j]["id"])
         while k < len(document_fields):
             field_name = read_submission["documents"][j]["document_fields"][k]["name"]
             field_value = read_submission["documents"][j]["document_fields"][k]["transcription"]["normalized"]
             if len(field_value) > 0:
                 number_extracted_field += 1
-            line = (str(read_submission["documents"][j]["id"])+csv_separator+field_name+csv_separator+field_value+"\n")
+            line = (document_id+csv_separator+field_name+csv_separator+field_value+"\n")
             file_result.write(line)
             k += 1
         j += 1

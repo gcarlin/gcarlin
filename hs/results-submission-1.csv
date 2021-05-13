@@ -1,0 +1,400 @@
+DOCUMENT_ID,FIELD NAME,FIELD VALUE
+1,Sender Account Number,168504411
+1,Sender Date,03/23/1999
+1,Priority Overnight,TRUE
+1,Standard Overnight,FALSE
+1,Sender Name,TINA POST
+1,Sender Phone,
+1,First Overnight,FALSE
+1,2Day,FALSE
+1,Express Saver,FALSE
+1,Sender Company,AERO-FAB
+1,Sender Address,1840 N 105TH EAST AVE
+1,Overnight Freight,FALSE
+1,2Day Freight,FALSE
+1,Express Saver Freight,FALSE
+1,Sender City,TULSA
+1,Sender State,OK
+1,Sender Zip,74116
+1,Letter,FALSE
+1,Pak,FALSE
+1,Box,FALSE
+1,Tube,FALSE
+1,Other Pkg,TRUE
+1,Sender Internal Billing,P.O.# V85137
+1,Dangerous No,FALSE
+1,Dangerous Yes Declared,FALSE
+1,Dangerous Yes Not Declared,FALSE
+1,Recipient Name,
+1,Recipient Phone,
+1,Ice Weight 1,
+1,Ice Weight 2,
+1,Dry Ice,FALSE
+1,Cargo Only,FALSE
+1,Recipient Company,MCDONNELL DOUGLAS AEROSPACE - EAST
+1,Recipient Number Required,FALSE
+1,Sender,FALSE
+1,Recipient,TRUE
+1,Credit Card,FALSE
+1,Third Party,FALSE
+1,Cash Check,FALSE
+1,Recipient Address,BLDG 245 8900 FROST AVE
+1,Recipient Residence,FALSE
+1,Account Number Payment,063004537
+1,Credit Card Number,
+1,EXP Date,
+1,Recipient City,BERKELEY
+1,Recipient State,MO
+1,Recipient Zip,63134
+1,Total Packages,1
+1,Total Weight,801PS
+1,Total Value,
+1,Total Charges,
+1,Hold Weekday,FALSE
+1,Sunday Delivery,FALSE
+1,Hold Saturday,FALSE
+1,Saturday Delivery,FALSE
+1,Credit Card Auth,
+1,Release Signature,FALSE
+2,Sender Account Number,012203330
+2,Sender Date,03/23/1999
+2,Priority Overnight,FALSE
+2,Standard Overnight,TRUE
+2,Sender Name,STEPHANIE MILLER
+2,Sender Phone,5188431380
+2,First Overnight,FALSE
+2,2Day,FALSE
+2,Express Saver,FALSE
+2,Sender Company,MOHAWK FINISHING PRODUCTS INC
+2,Sender Address,4715 STATE HIGHWAY 30
+2,Overnight Freight,FALSE
+2,2Day Freight,FALSE
+2,Express Saver Freight,FALSE
+2,Sender City,AMSTERDAM
+2,Sender State,NY
+2,Sender Zip,12010
+2,Letter,TRUE
+2,Pak,FALSE
+2,Box,FALSE
+2,Tube,FALSE
+2,Other Pkg,FALSE
+2,Sender Internal Billing,
+2,Dangerous No,TRUE
+2,Dangerous Yes Declared,FALSE
+2,Dangerous Yes Not Declared,FALSE
+2,Recipient Name,GINA ACLAIR
+2,Recipient Phone,4135629655
+2,Ice Weight 1,
+2,Ice Weight 2,
+2,Dry Ice,FALSE
+2,Cargo Only,FALSE
+2,Recipient Company,WESTFIELD COATINGS CORPORATION
+2,Recipient Number Required,FALSE
+2,Sender,TRUE
+2,Recipient,FALSE
+2,Credit Card,FALSE
+2,Third Party,FALSE
+2,Cash Check,FALSE
+2,Recipient Address,221 UNION ST
+2,Recipient Residence,FALSE
+2,Account Number Payment,
+2,Credit Card Number,
+2,EXP Date,
+2,Recipient City,WESTFIELD
+2,Recipient State,MA
+2,Recipient Zip,01086
+2,Total Packages,
+2,Total Weight,
+2,Total Value,
+2,Total Charges,
+2,Hold Weekday,FALSE
+2,Sunday Delivery,FALSE
+2,Hold Saturday,FALSE
+2,Saturday Delivery,FALSE
+2,Credit Card Auth,
+2,Release Signature,FALSE
+3,Sender Account Number,138646645
+3,Sender Date,03/23/1999
+3,Priority Overnight,FALSE
+3,Standard Overnight,TRUE
+3,Sender Name,DAWN
+3,Sender Phone,5188433333
+3,First Overnight,FALSE
+3,2Day,FALSE
+3,Express Saver,FALSE
+3,Sender Company,AMSTERDAM C P D
+3,Sender Address,4589 RT 30 N
+3,Overnight Freight,FALSE
+3,2Day Freight,FALSE
+3,Express Saver Freight,FALSE
+3,Sender City,AMSTERDAM
+3,Sender State,NY
+3,Sender Zip,12010
+3,Letter,TRUE
+3,Pak,FALSE
+3,Box,FALSE
+3,Tube,FALSE
+3,Other Pkg,FALSE
+3,Sender Internal Billing,
+3,Dangerous No,FALSE
+3,Dangerous Yes Declared,FALSE
+3,Dangerous Yes Not Declared,FALSE
+3,Recipient Name,LOAN SERVICI
+3,Recipient Phone,8007246450
+3,Ice Weight 1,
+3,Ice Weight 2,
+3,Dry Ice,TRUE
+3,Cargo Only,FALSE
+3,Recipient Company,M&T BANK
+3,Recipient Number Required,FALSE
+3,Sender,TRUE
+3,Recipient,FALSE
+3,Credit Card,FALSE
+3,Third Party,FALSE
+3,Cash Check,FALSE
+3,Recipient Address,MOUNTAIN PLAZA
+3,Recipient Residence,FALSE
+3,Account Number Payment,
+3,Credit Card Number,
+3,EXP Date,
+3,Recipient City,BUFFALO
+3,Recipient State,NY
+3,Recipient Zip,14240
+3,Total Packages,
+3,Total Weight,
+3,Total Value,
+3,Total Charges,
+3,Hold Weekday,FALSE
+3,Sunday Delivery,FALSE
+3,Hold Saturday,FALSE
+3,Saturday Delivery,FALSE
+3,Credit Card Auth,
+3,Release Signature,FALSE
+4,Sender Account Number,012203330
+4,Sender Date,03/23/1999
+4,Priority Overnight,FALSE
+4,Standard Overnight,TRUE
+4,Sender Name,STEPHANIE MILLER
+4,Sender Phone,5188431380
+4,First Overnight,FALSE
+4,2Day,FALSE
+4,Express Saver,FALSE
+4,Sender Company,MOHAWK FINISHING PRODUCTS INC
+4,Sender Address,4715 STATE HIGHWAY 30
+4,Overnight Freight,FALSE
+4,2Day Freight,FALSE
+4,Express Saver Freight,FALSE
+4,Sender City,AMSTERDAM
+4,Sender State,NY
+4,Sender Zip,12010
+4,Letter,TRUE
+4,Pak,FALSE
+4,Box,FALSE
+4,Tube,FALSE
+4,Other Pkg,FALSE
+4,Sender Internal Billing,
+4,Dangerous No,TRUE
+4,Dangerous Yes Declared,FALSE
+4,Dangerous Yes Not Declared,FALSE
+4,Recipient Name,FRANK CARDER
+4,Recipient Phone,4043513805
+4,Ice Weight 1,
+4,Ice Weight 2,
+4,Dry Ice,FALSE
+4,Cargo Only,FALSE
+4,Recipient Company,MOHAWK FINISHING PRODUCTS INC
+4,Recipient Number Required,FALSE
+4,Sender,TRUE
+4,Recipient,FALSE
+4,Credit Card,FALSE
+4,Third Party,FALSE
+4,Cash Check,FALSE
+4,Recipient Address,1355 CHATTAHOOCHEE AVE NW
+4,Recipient Residence,FALSE
+4,Account Number Payment,
+4,Credit Card Number,
+4,EXP Date,
+4,Recipient City,ATLANTA
+4,Recipient State,GA
+4,Recipient Zip,30318
+4,Total Packages,
+4,Total Weight,
+4,Total Value,
+4,Total Charges,
+4,Hold Weekday,FALSE
+4,Sunday Delivery,FALSE
+4,Hold Saturday,FALSE
+4,Saturday Delivery,FALSE
+4,Credit Card Auth,
+4,Release Signature,FALSE
+5,Sender Account Number,195735492
+5,Sender Date,06/15/1999
+5,Priority Overnight,TRUE
+5,Standard Overnight,FALSE
+5,Sender Name,MARDY KIRKLAND
+5,Sender Phone,7046626442
+5,First Overnight,FALSE
+5,2Day,FALSE
+5,Express Saver,FALSE
+5,Sender Company,RACING CHAMPIONS SOUTH
+5,Sender Address,149 GASOLINE ALLEY DR
+5,Overnight Freight,FALSE
+5,2Day Freight,FALSE
+5,Express Saver Freight,FALSE
+5,Sender City,MOORESVILLE
+5,Sender State,NC
+5,Sender Zip,28117
+5,Letter,TRUE
+5,Pak,FALSE
+5,Box,FALSE
+5,Tube,FALSE
+5,Other Pkg,FALSE
+5,Sender Internal Billing,
+5,Dangerous No,FALSE
+5,Dangerous Yes Declared,FALSE
+5,Dangerous Yes Not Declared,FALSE
+5,Recipient Name,KATRINA RAUL
+5,Recipient Phone,8005371130
+5,Ice Weight 1,
+5,Ice Weight 2,
+5,Dry Ice,FALSE
+5,Cargo Only,FALSE
+5,Recipient Company,SFC GRAPHICS
+5,Recipient Number Required,FALSE
+5,Sender,TRUE
+5,Recipient,FALSE
+5,Credit Card,FALSE
+5,Third Party,FALSE
+5,Cash Check,FALSE
+5,Recipient Address,110 E WOODRUFF
+5,Recipient Residence,FALSE
+5,Account Number Payment,
+5,Credit Card Number,
+5,EXP Date,
+5,Recipient City,TOLEDO
+5,Recipient State,AT
+5,Recipient Zip,43624
+5,Total Packages,
+5,Total Weight,
+5,Total Value,
+5,Total Charges,
+5,Hold Weekday,FALSE
+5,Sunday Delivery,FALSE
+5,Hold Saturday,FALSE
+5,Saturday Delivery,FALSE
+5,Credit Card Auth,
+5,Release Signature,FALSE
+6,Sender Account Number,123590589
+6,Sender Date,03/23/1999
+6,Priority Overnight,FALSE
+6,Standard Overnight,TRUE
+6,Sender Name,LYN BAKER
+6,Sender Phone,9184385511
+6,First Overnight,FALSE
+6,2Day,FALSE
+6,Express Saver,FALSE
+6,Sender Company,FRITO LAY / TULSA
+6,Sender Address,11124 E MARSHALL ST
+6,Overnight Freight,FALSE
+6,2Day Freight,FALSE
+6,Express Saver Freight,FALSE
+6,Sender City,TULSA
+6,Sender State,OK
+6,Sender Zip,74116
+6,Letter,TRUE
+6,Pak,FALSE
+6,Box,FALSE
+6,Tube,FALSE
+6,Other Pkg,FALSE
+6,Sender Internal Billing,
+6,Dangerous No,FALSE
+6,Dangerous Yes Declared,FALSE
+6,Dangerous Yes Not Declared,FALSE
+6,Recipient Name,ANDREA BELL
+6,Recipient Phone,
+6,Ice Weight 1,
+6,Ice Weight 2,
+6,Dry Ice,FALSE
+6,Cargo Only,FALSE
+6,Recipient Company,FRITO LAY
+6,Recipient Number Required,FALSE
+6,Sender,TRUE
+6,Recipient,FALSE
+6,Credit Card,FALSE
+6,Third Party,FALSE
+6,Cash Check,FALSE
+6,Recipient Address,5080 SPECTRUM DRIVE 2027
+6,Recipient Residence,FALSE
+6,Account Number Payment,
+6,Credit Card Number,
+6,EXP Date,
+6,Recipient City,DALLAS
+6,Recipient State,TX
+6,Recipient Zip,75248
+6,Total Packages,
+6,Total Weight,
+6,Total Value,
+6,Total Charges,
+6,Hold Weekday,FALSE
+6,Sunday Delivery,FALSE
+6,Hold Saturday,FALSE
+6,Saturday Delivery,FALSE
+6,Credit Card Auth,
+6,Release Signature,FALSE
+7,Sender Account Number,137739615
+7,Sender Date,03/23/1999
+7,Priority Overnight,TRUE
+7,Standard Overnight,FALSE
+7,Sender Name,VICKIE HEFNER
+7,Sender Phone,9184385366
+7,First Overnight,TRUE
+7,2Day,FALSE
+7,Express Saver,FALSE
+7,Sender Company,HATHAWAY MOTORS & INSTRUMENTS
+7,Sender Address,10816 E NEWTON ST STE 112
+7,Overnight Freight,FALSE
+7,2Day Freight,FALSE
+7,Express Saver Freight,FALSE
+7,Sender City,TULSA
+7,Sender State,OK
+7,Sender Zip,74116
+7,Letter,TRUE
+7,Pak,FALSE
+7,Box,FALSE
+7,Tube,FALSE
+7,Other Pkg,FALSE
+7,Sender Internal Billing,
+7,Dangerous No,FALSE
+7,Dangerous Yes Declared,FALSE
+7,Dangerous Yes Not Declared,FALSE
+7,Recipient Name,TEAM ONE TMS
+7,Recipient Phone,
+7,Ice Weight 1,
+7,Ice Weight 2,
+7,Dry Ice,FALSE
+7,Cargo Only,FALSE
+7,Recipient Company,CITIBANK LOCKBOX # 0217
+7,Recipient Number Required,FALSE
+7,Sender,TRUE
+7,Recipient,FALSE
+7,Credit Card,FALSE
+7,Third Party,FALSE
+7,Cash Check,FALSE
+7,Recipient Address,1615 BRETT RD
+7,Recipient Residence,FALSE
+7,Account Number Payment,
+7,Credit Card Number,
+7,EXP Date,
+7,Recipient City,NEW CASTLE
+7,Recipient State,DE
+7,Recipient Zip,19720
+7,Total Packages,1
+7,Total Weight,
+7,Total Value,
+7,Total Charges,
+7,Hold Weekday,FALSE
+7,Sunday Delivery,FALSE
+7,Hold Saturday,FALSE
+7,Saturday Delivery,FALSE
+7,Credit Card Auth,
+7,Release Signature,FALSE
