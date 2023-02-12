@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ITC Avant Garde Gothic';
+    src: local('ITC Avant Garde Gothic Bold'), local('ITC-Avant-Garde-Gothic-Bold'),
+        url('ITCAvantGardeStd-Bold.woff2') format('woff2'),
+        url('ITCAvantGardeStd-Bold.woff') format('woff'),
+        url('ITCAvantGardeStd-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
